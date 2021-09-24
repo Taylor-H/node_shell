@@ -1,3 +1,3 @@
 module.exports = function () {
-    // pwd code
+    process.cwd()
 };
